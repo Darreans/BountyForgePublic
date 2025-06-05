@@ -1,0 +1,15 @@
+F:\BountyForge\BountyForge\obj\Debug\net6.0\BountyForge.csproj.AssemblyReference.cache
+F:\BountyForge\BountyForge\obj\Debug\net6.0\MyPluginInfo.cs
+F:\BountyForge\BountyForge\obj\Debug\net6.0\BountyForge.GeneratedMSBuildEditorConfig.editorconfig
+F:\BountyForge\BountyForge\obj\Debug\net6.0\BountyForge.AssemblyInfoInputs.cache
+F:\BountyForge\BountyForge\obj\Debug\net6.0\BountyForge.AssemblyInfo.cs
+F:\BountyForge\BountyForge\obj\Debug\net6.0\BountyForge.csproj.CoreCompileInputs.cache
+F:\BountyForge\BountyForge\bin\Debug\net6.0\BountyForge.deps.json
+F:\BountyForge\BountyForge\bin\Debug\net6.0\BountyForge.dll
+F:\BountyForge\BountyForge\bin\Debug\net6.0\BountyForge.pdb
+F:\BountyForge\BountyForge\obj\Debug\net6.0\BountyForge.dll
+F:\BountyForge\BountyForge\obj\Debug\net6.0\refint\BountyForge.dll
+F:\BountyForge\BountyForge\obj\Debug\net6.0\BountyForge.pdb
+F:\BountyForge\BountyForge\obj\Debug\net6.0\ref\BountyForge.dll
+F:\BountyForge\BountyForge\bin\Debug\net6.0\Bloodstone.dll
+F:\BountyForge\BountyForge\obj\Debug\net6.0\BountyFo.CBFC8723.Up2Date
